@@ -20,5 +20,3 @@ DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation
 https://dreamgaussian.github.io/
 
 ## Output
-![Screenshot 2023-09-28 172652](https://github.com/camenduru/FastSAM-colab/assets/54370274/93417e3d-876c-4a4f-8e49-d439a7e9e73b)
-
