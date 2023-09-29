@@ -13,6 +13,8 @@
 ## Tutorial
 https://github.com/dreamgaussian/dreamgaussian#usage
 
+![Screenshot 2023-09-29 050006](https://github.com/camenduru/dreamgaussian-colab/assets/54370274/e6775ece-b497-44d7-bbdc-7634147fb88a)
+
 ## Main Repo
 https://github.com/dreamgaussian/dreamgaussian
 
