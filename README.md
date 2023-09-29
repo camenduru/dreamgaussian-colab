@@ -14,7 +14,7 @@
 https://github.com/dreamgaussian/dreamgaussian
 
 ## Paper
-DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation
+DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation (🚦WIP🚦)
 
 ## Page
 https://dreamgaussian.github.io/
