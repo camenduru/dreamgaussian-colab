@@ -23,4 +23,5 @@ https://arxiv.org/abs/2309.16653
 https://dreamgaussian.github.io/
 
 ## Output
+prompt="a photo of an icecream" <br />
 ![Screenshot 2023-09-29 043212](https://github.com/camenduru/dreamgaussian-colab/assets/54370274/031dc3d4-a092-4967-87f7-2def2ae848c2)
