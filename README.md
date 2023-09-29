@@ -9,7 +9,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/dreamgaussian-colab/blob/main/dreamgaussian_colab.ipynb) | dreamgaussian_colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/dreamgaussian-colab/blob/main/dreamgaussian_colab_gradio.ipynb) | dreamgaussian_colab_gradio (Thanks to [@johnowhitaker](https://twitter.com/johnowhitaker) ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/dreamgaussian-colab/blob/main/dreamgaussian_colab_gradio.ipynb) | dreamgaussian_colab_gradio (🚦WIP🚦) (Thanks to [@johnowhitaker](https://twitter.com/johnowhitaker) ❤)
 
 ## Tutorial
 https://github.com/dreamgaussian/dreamgaussian#usage
