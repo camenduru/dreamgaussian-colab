@@ -10,6 +10,9 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/dreamgaussian-colab/blob/main/dreamgaussian_colab.ipynb) | dreamgaussian_colab
 
+## Tutorial
+https://github.com/dreamgaussian/dreamgaussian#usage
+
 ## Main Repo
 https://github.com/dreamgaussian/dreamgaussian
 
